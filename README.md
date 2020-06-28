@@ -27,4 +27,6 @@ Life expectancy is a statistical measure of the average time a human being is ex
 ## Purpose :
 Life expectancy is the most important factor for decision making. Good prognostication for example helps to determine the course of treatment and helps to anticipate the procurement of health care services and facilities, or more broadly: facilitates Advance Care Planning. Advance Care Planning improves the quality of the final phase of life by stimulating doctors to explore the preferences for end-of-life care with their patients, and people close to the patients.
 
+![Output UI](Output_UI/output1.JPG)
+![](Output_UI/output2.JPG)
 
